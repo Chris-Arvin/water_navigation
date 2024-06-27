@@ -26,7 +26,7 @@ When completing the SLAM, open another terminal to save the current map:
 $ rosrun map_server map_saver -f my_map
 ```
 
-## 4. Navigation
+## 3. Navigation
 Open a terminal to start navigation
 ```
 $ roslaunch water_navigation water_navigation.launch
