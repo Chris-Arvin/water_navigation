@@ -10,6 +10,7 @@ project(water_slam)
 find_package(catkin REQUIRED COMPONENTS
   roscpp
   rospy
+  slam_karto
 )
 
 ## System dependencies are found with CMake's conventions
